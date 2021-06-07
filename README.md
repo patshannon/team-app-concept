@@ -10,7 +10,7 @@ Hosted on Webflow
 https://team-app-7c85b0.webflow.io/
 <br>
 <br>
-![alt text](https://github.com/ps104/team-app-concept/blob/HP%20Design.jpg?raw=true)
+<img src="https://github.com/ps104/team-app-concept/blob/48968076f7864f61532c049884dfab83ad132ea8/HP%20Design.jpg">
 
 
 
