@@ -1,5 +1,6 @@
 
 Team App Website **concept** created using **Webflow** and **Figma**
+<br>
 Wireframing + Designs + Deploy.
 <br>
 <br>
@@ -7,4 +8,7 @@ Wireframing + Designs + Deploy.
 Hosted on Webflow
 <br>
 https://team-app-7c85b0.webflow.io/
+<br>
+<br>
+![alt text](https://github.com/ps104/team-app-concept/blob/main/hp_design.jpg?raw=true)
 
