@@ -2,7 +2,7 @@
 Team App Website **concept** created using **Webflow** and **Figma**.  This concept utilizes the CMS features of Webflow to create the blog style dynamic pages.
 <br>
 <br>
-Included in repo are examples of my wireframing and design process.
+Included in the repo are examples of my wireframing and design process.
 <br>
 <br>
 <hr>
